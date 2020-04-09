@@ -3,5 +3,5 @@ A C++ app composed of
 - HelloWorld
 
 
-To run this demo: [![Contribute](factory-contribute.svg)](/factory?url=https://github.com/anurag-saran/cpp-hello-world)
+To run this demo: [![Contribute](factory-contribute.svg)](https://che.openshift.io/factory?url=https://github.com/anurag-saran/cpp-hello-world)
 
