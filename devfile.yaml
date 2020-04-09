@@ -22,6 +22,10 @@ components:
   image: quay.io/eclipse/che-cpp-rhel7:nightly
   memoryLimit: 512Mi
   mountSources: true
+- id: ms-vscode/vscode-github-pullrequest/latest
+  type: chePlugin
+- id: redhat/vscode-openshift-connector/latest
+  type: chePlugin
 commands:
   -
     name: build
