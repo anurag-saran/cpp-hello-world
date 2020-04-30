@@ -3,5 +3,5 @@ A C++ app composed of
 - HelloWorld
 
 
-To run this demo: [![Contribute](factory-contribute.svg)](https://codeready-labs-infra.apps.cluster-toronto-b6e7.toronto-b6e7.open.redhat.com/factory?url=https://github.com/anurag-saran/cpp-hello-world)
+To run this demo: [![Contribute](factory-contribute.svg)](https://codeready-crw.apps.cluster-crw-7c2a.crw-7c2a.example.opentlc.com/factory?url=https://github.com/anurag-saran/cpp-hello-world)
 
